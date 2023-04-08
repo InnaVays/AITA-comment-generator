@@ -12,14 +12,11 @@ This project is a Python script for scraping Reddit threads, collecting recent p
 This project requires the following dependencies:
 
 praw
-
 bs4
- 
 textblob
-
 nltk
-  scipy
-  wordcloud
-  scikit-learn
-  torch
-  transformers
+scipy
+wordcloud
+scikit-learn
+torch
+transformers
