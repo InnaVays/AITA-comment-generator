@@ -1,4 +1,4 @@
-# Raddit-comment-generator
+# Reddit-comment-generator
 
 ### Overview
 This project is a Python script for scraping Reddit threads, collecting recent posts, and extracting information (the number of upvotes, the most popular comment and its upvotes). The script includes: 
