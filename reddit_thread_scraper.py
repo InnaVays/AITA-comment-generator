@@ -8,7 +8,7 @@ client_id = 'YOUR_CLIENT_ID'
 
 client_secret = 'YOUR_REDDIT_SECRET'
 
-user_agent='my_AITA_writer bot v1.0 by OpportunityWeird8029'
+user_agent='my_AITA_writer'
 
 reddit = praw.Reddit(client_id=client_id,
                      client_secret=client_secret,
